@@ -1,0 +1,54 @@
+.card{
+   
+
+    .list-title{
+        color: black;
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+    }
+
+ 
+
+       h3 a{
+            font-family: 'Amatic SC', cursive;
+            color: black;
+            font-size: 30px;
+            font-family: 'Roboto', sans-serif;
+        }
+
+    
+
+    .list-group-item{
+        font-size: 25px;
+        color: black;
+        font-family: 'Roboto', sans-serif;
+    }
+}
+
+.modal-title{
+
+    h3{
+        padding : 15px;
+    }
+
+}
+
+.modal-body{
+    
+    div{
+        width:100%;
+    }
+
+    input, textarea{
+        width: 70%;
+        margin-bottom: 20px;
+    }
+}
+
+ .space{
+        margin: 10px;
+        cursor: pointer;
+        color: white !important;
+    }
+

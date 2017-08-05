@@ -1,0 +1,56 @@
+.header-div h1 {
+  width: 100%;
+  height: 60px;
+  background: #F62459;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  letter-spacing: 8px; }
+
+.jumbotron {
+  margin: 10px  10%; }
+
+.addRecipeButton {
+  color: white !important;
+  margin-left: 10%;
+  cursor: pointer; }
+
+.card .list-title {
+  color: black;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center; }
+
+.card h3 a {
+  font-family: 'Amatic SC', cursive;
+  color: black;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif; }
+
+.card .list-group-item {
+  font-size: 25px;
+  color: black;
+  font-family: 'Roboto', sans-serif; }
+
+.modal-title h3 {
+  padding: 15px; }
+
+.modal-body div {
+  width: 100%; }
+
+.modal-body input, .modal-body textarea {
+  width: 70%;
+  margin-bottom: 20px; }
+
+.space {
+  margin: 10px;
+  cursor: pointer;
+  color: white !important; }
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Amatic SC', cursive; }
