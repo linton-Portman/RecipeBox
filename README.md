@@ -6,7 +6,7 @@
 
 
 
-##### To view visit : 
+##### To view visit : https://linton-portman.github.io/RecipeBox
 
 #### The following criteria had to be met
 * I can create recipes that have names and ingredients.
